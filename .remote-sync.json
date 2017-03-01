@@ -1,0 +1,16 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "klokanek.endora.cz",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "zerig2",
+  "password": "Ni2GrrXu",
+  "watch": [],
+  "port": "21",
+  "target": "nym.g6.cz/web/bootstrap22"
+}
